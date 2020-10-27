@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Buffalo_River_Cairn_3D" size="10.000000 15.000000" />
+    <ImageTarget name="Steel_Creek_Roots" size="10.000000 6.718750" />
+    <ImageTarget name="Cassotat_River_Rock_Detail" size="10.000000 15.625000" />
+    <ImageTarget name="Alum_Cove_Natural_Arch_Waterfall_Beams" size="10.000000 6.670833" />
+    <ImageTarget name="Falling_Water_Creek_Falls_Tree" size="10.000000 6.666667" />
+    <ImageTarget name="Tent_Rocks_Slot_Canyon" size="10.000000 15.009381" />
+    <ImageTarget name="Triple_Falls" size="10.000000 6.666667" />
+    <ImageTarget name="Cassotat_River_Maple" size="10.000000 6.666667" />
+    <ImageTarget name="OldTwistedCedar" size="10.000000 6.666667" />
+    <ImageTarget name="Pedestal_Rocks_Evening" size="10.000000 6.662500" />
+    <ImageTarget name="Hawksbill_Night" size="10.000000 6.666667" />
+    <ImageTarget name="Hoy_Ranch_Sunrise_Pond" size="10.000000 6.663333" />
+    <ImageTarget name="Blanchard_Springs" size="10.000000 6.504167" />
+    <ImageTarget name="Big_Bluff_Autumn_Clouds" size="10.000000 6.670833" />
+    <ImageTarget name="AlumCoveArch" size="10.000000 6.670833" />
+    <ImageTarget name="snail_and_Fern" size="50.000000 127.569099" />
+    <ImageTarget name="GloryHole" size="50.000000 75.046906" />
+    <ImageTarget name="Elephants_Journey" size="50.000000 33.333332" />
+    <ImageTarget name="RAM_SHOW_BOOK_COVER" size="50.000000 33.333332" />
+    <ImageTarget name="LongHouseRuins" size="50.000000 76.220238" />
+    <ImageTarget name="White_Rock_Mountain_Fog" size="10.000000 6.476666" />
+    <ImageTarget name="FlyingW_Wagon" size="10.000000 6.666667" />
+    <ImageTarget name="Teter_Rock_Moonrise" size="10.000000 6.670000" />
+    <ImageTarget name="Tent_Rocks_Slot_Canyon-Vert" size="10.000000 15.007504" />
+    <ImageTarget name="Corona_At_Elephant_Rocks" size="10.000000 6.670000" />
+    <ImageTarget name="Sams_Throne_Sunset" size="10.000000 15.000000" />
+    <ImageTarget name="Petit_Jean_Boulders_Fog" size="10.000000 5.946667" />
+    <ImageTarget name="Misty_Mountains-Owl_Creek_Pass" size="10.000000 5.866667" />
+    <ImageTarget name="Na_Pali_Sunset" size="10.000000 6.666667" />
+    <ImageTarget name="Mushroom_Village" size="10.000000 6.666667" />
+    <ImageTarget name="Moonshine_Falls_Cave" size="10.000000 6.670000" />
+    <ImageTarget name="Big_Drop-Millstream_Gardens" size="10.000000 6.666667" />
+    <ImageTarget name="Jasmine_Falls" size="10.000000 6.666667" />
+    <ImageTarget name="Event_Horizon" size="10.000000 6.666667" />
+    <ImageTarget name="Big_Spring_Cave_Light" size="10.000000 6.670000" />
+    <ImageTarget name="SpringSunriseOnWhiteRiver" size="10.000000 6.666667" />
+  </Tracking>
+</QCARConfig>

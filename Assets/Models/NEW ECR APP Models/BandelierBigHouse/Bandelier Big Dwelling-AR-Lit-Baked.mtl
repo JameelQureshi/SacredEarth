@@ -1,0 +1,13 @@
+# Blender MTL File: 'Bandelier Big Dwelling-AR-Lit-Baked.blend'
+# Material Count: 1
+
+newmtl Bandelier_Big_Dwelling_2019_OBJ_200K_Material_u1_v1
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd Bandelier Big Dwelling 2019 OBJ 200K\\Bandelier_Big_Dwelling_2019_OBJ_200K_u1_v1-8k-BAKED.jpg
