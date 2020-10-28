@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="YosemiteSunsetAR_Trigger" size="1.000000 0.666667" />
+    <ImageTarget name="SamsThroneSunsePineAR_Trigger" size="1.000000 0.695000" />
+    <ImageTarget name="RickettsMountainVistaAR_Trigger" size="1.000000 0.666667" />
+    <ImageTarget name="PrairieFirePG41_Trigger" size="1.000000 0.562667" />
+    <ImageTarget name="PrairieFireTree2PG36_Trigger" size="1.000000 0.658000" />
+    <ImageTarget name="PrairieFireMuseumHyperlapseAR_Trigger" size="1.000000 0.650977" />
+    <ImageTarget name="MoonRingsSamsThrone-AR_Trigger" size="1.000000 0.666667" />
+    <ImageTarget name="LauturalFallsAR_Trigger" size="1.000000 0.666667" />
+    <ImageTarget name="JohnsonShut-InsDetail-AR_Trigger" size="1.000000 0.666667" />
+    <ImageTarget name="JimHoyFireStick-AR_Trigger" size="1.000000 0.562500" />
+    <ImageTarget name="HoleintheRockAR_Trigger" size="1.000000 0.666956" />
+    <ImageTarget name="GardenoftheGodsSunrise-AR_Trigger" size="1.000000 0.666667" />
+    <ImageTarget name="FireAerialPG55_Trigger" size="1.000000 0.562679" />
+    <ImageTarget name="FireAerialPG23_Trigger" size="1.000000 0.562130" />
+    <ImageTarget name="EveningFirePG48_Trigger" size="1.000000 0.666667" />
+    <ImageTarget name="EveningFirePG27_Trigger" size="1.000000 0.666667" />
+    <ImageTarget name="CecilCreekValleyNightTStarSpinAR_Trigger" size="1.000000 0.666667" />
+    <ImageTarget name="BlueSpringRoadMorningFogAR_Trigger" size="1.000000 0.666667" />
+  </Tracking>
+</QCARConfig>
