@@ -29,16 +29,16 @@ public class ModelSwap : MonoBehaviour
         if (m_TrackableSettings.IsExtendedTrackingEnabled() && (m_ActiveModel == m_DefaultModel))
         {
             // Switch default augmentation to extended tracking augmentation
-            m_DefaultModel.SetActive(false);
-            m_ExtTrackedModel.SetActive(true);
-            m_ActiveModel = m_ExtTrackedModel;
+            //m_DefaultModel.SetActive(false);
+            //m_ExtTrackedModel.SetActive(true);
+            //m_ActiveModel = m_ExtTrackedModel;
         }
         else if (!m_TrackableSettings.IsExtendedTrackingEnabled() && (m_ActiveModel == m_ExtTrackedModel))
         {
             // Switch extended tracking augmentation to default augmentation
-            m_ExtTrackedModel.SetActive(false);
-            m_DefaultModel.SetActive(true);
-            m_ActiveModel = m_DefaultModel;
+            //m_ExtTrackedModel.SetActive(false);
+            //m_DefaultModel.SetActive(true);
+            //m_ActiveModel = m_DefaultModel;
         }
     }
 
